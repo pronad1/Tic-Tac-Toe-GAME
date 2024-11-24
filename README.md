@@ -4,9 +4,10 @@ I Hope you will enjoy by playing this game.
 For play this game plz click here 👇
 # https://prosenjit-mondol.github.io/Tic-Tac-Toe-GAME/
 
-# -----------------------------DEMO-------------------------------------
+# -----------------------------DEMO--------------------------------
 #
 ![image](https://github.com/user-attachments/assets/8234a34e-a2f9-47c9-830c-5113fa380249)
 #
-# ---------------------------RESULT-------------------------------------
+# ---------------------------RESULT---------------------------------
 #
+![image](https://github.com/user-attachments/assets/a1eaa232-ac1f-4196-98c0-068f2ac8877e)
